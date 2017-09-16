@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>clang_version</key>
+<string>Apple LLVM version 8.1.0 (clang-802.0.42)</string>
+ <key>files</key>
+ <array>
+  <string>/Users/nshah/Projects/rn-socket-chat/node_modules/react-native-fcm/ios/RNFIRMessaging.m</string>
+ </array>
+ <key>diagnostics</key>
+ <array>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>84</integer>
+      <key>col</key><integer>13</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>84</integer>
+         <key>col</key><integer>25</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>84</integer>
+         <key>col</key><integer>108</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>depth</key><integer>0</integer>
+     <key>extended_message</key>
+     <string>Value stored to &apos;unitFlags&apos; is never read</string>
+     <key>message</key>
+     <string>Value stored to &apos;unitFlags&apos; is never read</string>
+    </dict>
+   </array>
+   <key>description</key><string>Value stored to &apos;unitFlags&apos; is never read</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead assignment</string>
+   <key>check_name</key><string>deadcode.DeadStores</string>
+   <!-- This hash is experimental and going to change! -->
+   <key>issue_hash_content_of_line_in_context</key><string>fcdaeb61423945fb318c06e0a1f3d728</string>
+  <key>issue_context_kind</key><string>Objective-C method</string>
+  <key>issue_context</key><string>UNNotificationRequest:</string>
+  <key>issue_hash_function_offset</key><string>43</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>84</integer>
+   <key>col</key><integer>13</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>87</integer>
+      <key>col</key><integer>13</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>87</integer>
+         <key>col</key><integer>25</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>87</integer>
+         <key>col</key><integer>130</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>depth</key><integer>0</integer>
+     <key>extended_message</key>
+     <string>Value stored to &apos;unitFlags&apos; is never read</string>
+     <key>message</key>
+     <string>Value stored to &apos;unitFlags&apos; is never read</string>
+    </dict>
+   </array>
+   <key>description</key><string>Value stored to &apos;unitFlags&apos; is never read</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead assignment</string>
+   <key>check_name</key><string>deadcode.DeadStores</string>
+   <!-- This hash is experimental and going to change! -->
+   <key>issue_hash_content_of_line_in_context</key><string>ad050d28527737900ef0e8dafa1b27df</string>
+  <key>issue_context_kind</key><string>Objective-C method</string>
+  <key>issue_context</key><string>UNNotificationRequest:</string>
+  <key>issue_hash_function_offset</key><string>46</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>87</integer>
+   <key>col</key><integer>13</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+ </array>
+</dict>
+</plist>

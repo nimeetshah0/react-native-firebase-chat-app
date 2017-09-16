@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c99623feec640e4d893375a22fe006fe3a7eb2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_d4723486a457b6e73a4e2ebca98698529c8b7c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_6eacbfc1f4a20f4b85e4b16cb4a1dd01b7432800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_32bc3415ede8c04e60f88d01fd765f8058568f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1de8f75805268154da5e88bb6195760b9d8966f">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-linear-gradient-unspecified_a3d1ca8e2dc7e1a1844b5c83335866da42bd8780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_74805aa1de7853ec6ada453e9c2c175d726ced0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_c56a03650097b8517bdb0c87d5731d3fa1fbf94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_0495c8bc1ac3303a10924825a2eb4a6e02b21639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_f02d8ba444dad3b1aaf58be243259e6a5c723e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.0_1633fcf54686e16f7db38398e2a39a3cfdeaf69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_dba4a4ea4a15a836b5337da47241a6a198bc0ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_a3862d5254716316fcf2d5130c0578e01be9d716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0bc7652cb2ed16ca4f959f22f6af491c81b0ec3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_01baf7c6972b6b7e7439c9be608c152e0c84f1d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f0d63b08a7dcf2b7ad2dd953262a3cc8fe720483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2b2f6116459b93cd1dde2a7a2ddcda37cb998755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e4336ffc2b7653868134d7f6f8b28523ef54645">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-device-info-unspecified_732a2a4abcbf94fcba366d96689eb77c9e3a6e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_744e2b1df91198d2c61b27f1daff86a694b772ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_017b1ed026b4536466be2b6f7dce5aebc33c8d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cfba4ec825b81c8112b108133139a54cd726d074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_3a173b57b9ee1ddc3259a14494e4584a58aaee59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_15a89033f107f445e6f506dd6a06fede051896d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_8dfb899bd48f776fc40a801aee1b3d1d1e399706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/me.relex/photodraweeview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/me.relex-photodraweeview-1.0.0_5dec49e6d029797746e7ee88d5eda87bbfee7395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_7552391840b0cb13fb76f122d8c064c00bc52882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_e219f8fa515058f5631dbc45d5b72b2b0890bd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f8039bd1f598a942a309c345cb0816ca5c5f644a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-share/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac1a52d84feee696d966c36344425e8fd9cd515">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-share-unspecified_eb42974f3147c06a3194f34388e04902f5f180f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-photo-view/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15b9f2801cc5535f01cd0a9f237e10f354243ff2">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-photo-view-unspecified_fe3f4de222cc8a2e4c9a4b2ae14859c8af76c3eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_97860be745c291c64617cc844daeea47d4f6673c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_91125bd08bec706b66bbeb53d308a550ad30667f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.0_911695f4a4637dec5b38cd383c76dec58d1eda41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_51545429517e35560ae83997478f37a637cc7d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_2e775aa14bc03e5c2fb9d3363d98d957670ad444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1de98e22a5e881284d1ebbd2cd4f8396075b2b5">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-fcm-unspecified_59bc8e1f9f8936ac63e5248cbebba4376037be3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.0_d0566fd7a560ca50b902ed559fed9b74ba25d461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0f2bdc16c4c9dc511daa70467822a04c357eb7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/ChatApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/ChatApp-react-native-vector-icons-unspecified_bf6852915d1ef0cae8686c226e44837cfe7c2194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nshah/Projects/rn-socket-chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9839e6bff994920a0d940910d4858db00daa814.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+{
+  "name": "ChatApp",
+  "displayName": "ChatApp",
+  "expo": {
+    "sdkVersion": "20.0.0"
+  }
+}

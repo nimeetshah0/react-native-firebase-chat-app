@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.m \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Target\ Support\ Files/Protobuf/Protobuf-prefix.pch \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBBootstrap.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBArray.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBRuntimeTypes.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBCodedInputStream.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBCodedOutputStream.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBWireFormat.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBDescriptor.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBDictionary.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBExtensionRegistry.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBMessage.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBRootObject.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBUnknownField.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBUtilities.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBWellKnownTypes.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBExtensionInternals.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h \
+  /Users/nshah/Projects/rn-socket-chat/ios/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h
